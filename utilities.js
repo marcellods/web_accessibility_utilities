@@ -14,18 +14,16 @@ by MarcelloDamasceno@gmail.com
    For example, "qaElementList('sup')" will return a list of <sup> tags in the DOM
 
 ## Functions List =================
-qaAriaHiddenList();
-qaAriaLabelViolations();
-qaClickStreamList();
-qaClickStreamListText();
-qaElementList('tag_placeholder');
-qaFormElementsList();
-qaHeadingsList();
-qaHeadingsListText();
-qaImageList();
-qaImageListWithAlt();
-qaLinkList();
-qaLinkListText();
+* qaAriaHiddenList();
+* qaAriaLabelViolations();
+* qaElementList('tag_placeholder');
+* qaFormElementsList();
+* qaHeadingsList();
+* qaHeadingsListText();
+* qaImageList();
+* qaImageListWithAlt();
+* qaLinkList();
+* qaLinkListText();
 */
 
 function qaAriaHiddenList(){
