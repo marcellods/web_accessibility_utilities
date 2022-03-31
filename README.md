@@ -1,4 +1,4 @@
-# Accessibility Utilities
+# Web Accessibility Utilities
 Javascript functions to help QA for accessibility in the browser
 
 ## Instructions
